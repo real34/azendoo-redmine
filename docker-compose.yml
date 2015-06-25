@@ -1,0 +1,4 @@
+python:
+  build: docker/python
+  volumes:
+   - .:/code
